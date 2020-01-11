@@ -16,3 +16,11 @@ def selectionSort(mylist,length):
 if __name__ == "__main__":
     mylist = list(map(int,input("Enter a list of numbers to sort seperated by space : ").split(" ")))    # getting the input list and storing it in mylist
     print(selectionSort(mylist,len(mylist)))  # passing the mylist and its length to selectionSort function and printing the sorted list
+
+
+
+
+
+
+
+# Always do before pushing to repo : git pull origin master --rebase 

@@ -21,7 +21,8 @@ int graph[max][max] = { { 0, 2, 0, 6, 0 },
   
     // give the entire graph to function primMST
     primMST(graph);
-    
+
+
 
     
 }
